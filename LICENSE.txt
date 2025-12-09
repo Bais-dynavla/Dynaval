@@ -1,79 +1,58 @@
-DynaVal 1.0.0 for Minecraft 1.20.4 (2024-05-13-10:39)
-Copyright (c) 2024  Bais <https://github.com/Bais-dynavla/Dynaval>.  All Rights Reserved.
+版权信息：Copyright (c) 2024 Bais（以下简称"原作者"），官方仓库：https://github.com/Bais-dynavla/Dynaval，作者邮箱：1312091433@qq.com。保留所有权利。
+核心原则：本许可证适用于DynaVal模组免费版及beta测试版（以下统称“本模组”），用户的复制、传播、使用、修改等所有与本模组相关的行为，均需严格遵守本许可证条款。未经原作者书面明确许可，不得实施本许可证禁止的行为。
 
-This mod may not be altered, file-hosted, re-packaged, reverse-engineered, or distributed
-in part or in whole without express written permission by Bais (1312091433@qq.com).
+作者权利声明：原作者作为本模组的著作权人，享有修改权、改编权、发行权、复制权等完整法定权利，包括但不限于开发、发布本模组的免费版、beta测试版及其他衍生版本。本许可证仅约束用户行为，不限制原作者的合法开发与运营权利。
 
-- **Personal Use**：Individual users may download and install this mod for personal use, but cannot share it with others unless they have explicit written permission.
+获取渠道说明：本模组（含免费版、beta测试版）仅通过GitHub、CurseForge等原作者官方公开渠道或指定私密渠道提供，用户应从上述官方渠道获取，切勿通过第三方非官方渠道下载，以免遭受恶意程序侵害。
 
-- **Modification**：No form of modification to this mod is allowed. This includes but is not limited to changing the code, adding new features, or deleting existing features.
+一、使用权限
 
-- **Commercial Use**：This mod may not be used for any commercial purposes, including but not limited to sales, rentals, advertising, or promotion. The only exception is that Bais, as the original author and copyright owner, reserves the right to sell and commercialize this mod.
+1.1 基础使用权限
 
-- **Feedback**：Users can provide feedback about the mod, including reporting issues or suggesting improvements.
+用户可下载、安装本模组并用于个人非商业娱乐。其中，beta测试版为未成熟版本，可能存在缺陷、崩溃等风险。
 
-- **Contribution**：If your project is open-source and accepts contributions, users can submit code to help improve the mod.
+二、核心禁止行为
 
-- **Community Interaction**：Users can participate in the mod's community, interact with other users, share their in-game creations, or participate in discussions and votes to influence the future development of the mod.
+2.1 禁止分发与传播
 
-- **Disclaimer**：Use this mod at your own risk. DynaVal may harm your computer or economy. The likelihood is low, but you have been warned.
+- 不得将本模组（含免费版、beta测试版）以任何形式重新托管，包括但不限于上传至第三方网盘、论坛附件、私人服务器、社交平台文件中转站等；
 
-- **No Modification**：Even for personal use, this mod may not be modified in any way.
+- 不得将本模组（含免费版、beta测试版）有偿或无偿转让、赠予、出租、共享给他人，不得捆绑至模组包、整合包、游戏客户端等任何集合类产品；
 
-- **No Re-hosting, Redistribution, or Bundling**：This mod may not be re-hosted, redistributed, or bundled in any way, including as part of a larger distribution such as a modpack. This includes DynaVal modpacks, which bundle all the mods into a single zip file.
+- 不得通过截图、文字转录、视频录屏解析等任何方式，变相传播模组核心代码、关键功能实现逻辑或核心资产信息。
 
-- **No Decompiling or Extracting JAR Contents**：Our mod may not be decompiled or the contents of the JAR extracted for use of the code or assets therein for any purpose.
+- 不得将本模组以任何形式重新分发，包括但不限于有偿或无偿转让、赠予、出租、共享给他人，无论接收方是否用于商业目的；
 
-- **No Extracting Code or Assets from Open-Source Projects**：Code or assets from our open-source projects may not be extracted from the mod JAR for use. The JAR itself is distributed under an All Rights Reserved license. If you want to work with our open-source projects, please find them on GitHub instead.
+- 不得将本模组捆绑至任何集合类产品，包括但不限于模组包、整合包、游戏客户端、工具软件等，无论该集合类产品是否收费；
 
-- **No Derivative Works**：Users may not create any derivative works based on your mod, including but not limited to new mods, plugins, or extensions.
+2.2 禁止商业使用
 
-- **No Removal of Copyright Notices**：Users may not remove copyright notices or other ownership notices from your mod or any part thereof.
+用户不得将本模组（含免费版、beta测试版）用于任何商业目的，包括但不限于：（1）将模组作为商品销售、出租、授权他人使用以获取收益；（2）利用模组进行广告推广、流量变现、直播打赏等盈利活动；（3）将模组用于商业服务器运营、付费赛事组织等场景；（4）其他直接或间接获利的使用方式。
 
-- **No Imitation or Impersonation**：Users may not imitate or impersonate your mod, or publish or distribute your mod in a way that misleads users.
+2.3 禁止修改与提取
 
-- **No Circumventing Technological Protection Measures**：If your mod contains any form of technological protection measures, users may not attempt to circumvent these measures.
+- 不得通过截图、文字转录、视频录屏解析等任何方式，变相传播模组核心代码、关键功能实现逻辑或核心资产信息。
 
-Any violation of the above terms will be considered an infringement, and the author reserves the right to take legal action.
+- 不得对本模组（含免费版、beta测试版）进行任何形式的修改，包括但不限于修改源代码、字节码，添加、删除、替换功能模块，调整界面元素、数值配置或运行逻辑；
 
-**Please note**: This is a machine translation of the original license terms in Chinese. In case of any discrepancies, the original Chinese version shall prevail.
+- 不得对模组安装包（JAR等格式文件）进行反编译、反汇编、解包或提取其中的任何内容，包括但不限于代码、图片、音效、模型、纹理等所有资产；
 
-此模组不得被修改、文件托管、重新打包、反向工程或部分或全部分发，除非得到Bais（1312091433@qq.com）的明确书面许可。
+- 不得利用本模组的任何部分（含代码、资产、功能逻辑）创建衍生作品，包括但不限于新模组、插件、扩展程序、修改版模组、工具软件等。
 
-- **私人使用**：个人用户可以下载和安装此模组进行私人使用，但不能将其分享给他人，除非得到明确的书面许可。
+三、免责声明与责任限制
 
-- **修改**：不得对此模组进行任何形式的修改。这包括但不限于改变代码、添加新功能或删除现有功能。
+1. 【风险警告】本模组（含免费版、beta测试版）按“现状”提供，原作者不对模组的适用性、稳定性、安全性作出任何明示或默示担保，包括但不限于不保证模组无缺陷、不保证其不影响计算机系统正常运行、不保证其不导致数据丢失等。beta测试版作为未成熟版本，缺陷风险高于免费版，用户使用即视为充分知晓前述风险并自愿承担。
 
-- **商业用途**：此模组不得用于任何商业用途，包括但不限于销售、出租、广告或推广。唯一的例外是，作为原作者和版权所有者的Bais保留出售和商业化此模组的权利。
+2. 损失承担：使用本模组（含免费版、beta测试版）导致的计算机故障、数据损坏、账号异常等损失，均由用户自行承担，原作者不承担任何赔偿责任。
 
-- **反馈**：用户可以提供关于模组的反馈，包括报告问题或建议改进。
+3. 合规承诺：用户需遵守所在国家/地区的法律法规及所使用软件的相关服务条款、社区规范。若因用户违反前述规定或本许可证条款导致任何法律责任（包括但不限于第三方索赔、行政机关处罚等），均由用户自行承担，与原作者无关。
 
-- **贡献**：如果您的项目开源，并接受贡献，用户可以提交代码，帮助改进模组。
+四、侵权责任与其他
 
-- **社区互动**：用户可以参与到模组的社区中，与其他用户交流使用经验，分享游戏内的创造，或者参与讨论和投票来影响模组的未来发展。
+1. 任何单位或个人违反本许可证条款的，即构成对原作者著作权的严重侵犯，原作者有权采取包括但不限于要求立即停止侵权行为、删除侵权内容、公开赔礼道歉、赔偿经济损失等措施；情节严重的，原作者将依法追究其民事、行政乃至刑事责任。
 
-- **免责声明**：使用此模组需自行承担风险。DynaVal可能会对您的计算机或经济造成损害。可能性不大，但我已经提醒过您了。
+2. 原作者有权根据模组开发进展、版权保护需求或法律法规更新，对本许可证条款进行修改。修改后的条款将通过官方仓库、社群公告等渠道公示，公示后对新获取模组的用户立即生效；已获取模组的用户，若继续使用模组即视为接受修改后的条款。
 
-- **不得修改**：即使是出于个人使用的目的，也不得以任何方式修改此模组。
+3. 本许可证受中华人民共和国著作权法、民法典等相关法律法规管辖。若双方就本许可证的履行发生争议，应首先通过友好协商解决；协商不成的，任何一方均有权向原作者所在地有管辖权的人民法院提起诉讼。
 
-- **不得重新托管、重新分发或捆绑**：不得以任何方式重新托管、重新分发或捆绑此模组，包括作为更大分发的一部分，如模组包。这包括将所有模组捆绑到一个单独的zip文件中的DynaVal模组包。
-
-- **不得反编译或提取JAR内容**：不得反编译我们的模组或提取JAR的内容，并利用其中的代码或资产进行任何目的。
-
-- **不得提取开源项目的代码或资产**：不得从模组JAR中提取我们的其他开源项目的代码或资产并使用它们。JAR本身是在All Rights Reserved许可下分发的。如果您想要使用我们的开源项目，请在GitHub上找到它们。
-
-- **不得创建衍生作品**：用户不得基于您的模组创建任何衍生作品，包括但不限于新的模组、插件或扩展。
-
-- **不得移除版权声明**：用户不得从您的模组或其任何部分中移除版权声明或其他所有权通知。
-
-- **不得模仿或冒充**：用户不得模仿或冒充您的模组，或者以误导用户的方式发布或分发您的模组。
-
-- **不得绕过技术保护措施**：如果您的模组包含任何形式的技术保护措施，用户不得试图绕过这些措施。
-
-违反上述规定的行为将被视为侵权行为，作者保留采取法律行动的权利。
-
-Github : https://github.com/Bais-dynavla/Dynaval
-
-
-
-
+4. 本许可证为中文原文，若存在其他语言译本，均仅作参考。当译本与中文原文存在任何冲突或歧义时，一律以中文原文为准。
